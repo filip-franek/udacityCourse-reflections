@@ -11,4 +11,4 @@ files. The main benefit of staging in my opinion would be that you
 can selectively add files to the repository.
 
 Q3:
-A3:
+A3: 
