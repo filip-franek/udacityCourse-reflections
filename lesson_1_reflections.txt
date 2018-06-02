@@ -1,0 +1,17 @@
+Q1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A1: diff function helped me to easily localize differences between two text files by highlighting any changes within each line. It showed me both lines that has been detected as different, but it did not pinpointed the exact change that was detected.
+
+Q2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A2: Being able to go back in time is a powerful tool. Especially when one gets into major reconstruction of a code which end up having some bugs not easily found and one needs to start from the last working code. So in case backup files are not saved, what makes our brain occupied and we often forget, the history will save hours or days of work. Also if a file is deleted by a misunderstanding, it could be looked up from the hishtory.
+
+Q3: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A3: because files may be dependent on each other and therefore saving multiple files in one commit makes it easier to keep complex projects running after editing.
+
+Q4: How can you use the commands git log and git diff to view the history of files?
+A4: By command 'git log', I can see comment for each change made in one (folder/File?) and also I can read there ID numbers of each change. By command 'git diff ID#1 ID#2' I can see what lines has been added or removed.
+
+Q5: How might using version control make you more confident to make changes that could break something?
+A5: It allows me experiment more supposing I make commits at good points and tag each one appropriately.
+
+Q6: Now that you have your workspace set up, what do you want to try using Git for?
+A6: I just want to program in java and eventually programming android apps!!!!
