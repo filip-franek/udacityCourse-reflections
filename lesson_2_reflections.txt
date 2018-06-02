@@ -1,0 +1,14 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+A1: Initializing a repository by "git init" command adds .git folder to 
+the current working directory, so that git can start tracking commits.
+
+Q2: How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+A2: Working directory is a physical folder on your computer. "git init"
+ creates a repository. files needs to be added to the staging area by 
+"git add <filename>" in order to be able to commit changes and track 
+files. The main benefit of staging in my opinion would be that you 
+can selectively add files to the repository.
+
+Q3:
+A3:
