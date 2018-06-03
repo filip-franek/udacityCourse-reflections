@@ -1,3 +1,5 @@
+Reflection notes on lesson 1 github course udacity
+
 Q1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
 A1: diff function helped me to easily localize differences between two text files by highlighting any changes within each line. It showed me both lines that has been detected as different, but it did not pinpointed the exact change that was detected.
 
