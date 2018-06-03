@@ -16,3 +16,5 @@ A3: "git add <fileName>" only once then commit. If you add multiple files, the c
 Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A4: When I want to do a dramatical change to try it out or to add language. Branch would create a path of commits that would start from a common point with a master brach or other, but it would be separated from one another.
 
+Q5: How do the diagrams help you visualize the branch structure?
+A5: Branches at a diagram can be drawn parallel, thus helps it better visualize parrent commits and dependencies?
