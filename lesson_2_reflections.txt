@@ -12,3 +12,7 @@ can selectively add files to the repository.
 
 Q3: How can you use the staging area to make sure you have one commit per logical change?
 A3: "git add <fileName>" only once then commit. If you add multiple files, the commit will submit them all under one commit message
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4: When I want to do a dramatical change to try it out or to add language. Branch would create a path of commits that would start from a common point with a master brach or other, but it would be separated from one another.
+
