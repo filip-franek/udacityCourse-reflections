@@ -6,9 +6,9 @@ Q2: How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 A2: Working directory is a physical folder on your computer. "git init"
  creates a repository. files needs to be added to the staging area by 
-"git add <filename>" in order to be able to commit changes and track 
+"git add <fileName>" in order to be able to commit changes and track 
 files. The main benefit of staging in my opinion would be that you 
 can selectively add files to the repository.
 
-Q3:
-A3: 
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+A3: "git add <fileName>" only once then commit. If you add multiple files, the commit will submit them all under one commit message
