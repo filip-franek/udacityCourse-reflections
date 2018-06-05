@@ -18,3 +18,8 @@ A4: When I want to do a dramatical change to try it out or to add language. Bran
 
 Q5: How do the diagrams help you visualize the branch structure?
 A5: Branches at a diagram can be drawn parallel, thus helps it better visualize parrent commits and dependencies?
+
+Q6: What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+A6: Mergint two branches combine the changes made within those branches 
+if there are no conflicts.
