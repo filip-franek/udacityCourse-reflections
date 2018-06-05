@@ -26,3 +26,9 @@ if there are no conflicts.
 
 Q7:
 A7:
+||||||| merged common ancestors
+=======
+
+sidenotes:
+these are just sidenotes to be merged to master
+>>>>>>> sidenotes
