@@ -23,3 +23,6 @@ Q6: What is the result of merging two branches together? Why do we
 represent it in the diagram the way we do?
 A6: Mergint two branches combine the changes made within those branches 
 if there are no conflicts.
+
+Q7:
+A7:
