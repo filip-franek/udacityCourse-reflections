@@ -24,11 +24,10 @@ represent it in the diagram the way we do?
 A6: Mergint two branches combine the changes made within those branches 
 if there are no conflicts.
 
-Q7:
-A7:
-||||||| merged common ancestors
-=======
-
-sidenotes:
-these are just sidenotes to be merged to master
->>>>>>> sidenotes
+Q7: What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+A7: Git can merge files seamlesly if they are written 
+without a conflict, thus user does not have to worry about it. When 
+there is an conflict though, manual action has to be taken anyway. On 
+contrary, manual merging would give the user a full control over 
+combining branches.
