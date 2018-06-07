@@ -8,3 +8,12 @@ having Git automatically stay up-to-date with your remote repository?
 A2: In order to allow the user to decide when to synchronize the 
 repository and working folder to have always a project that functions or 
 behaves as expected.
+
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A3: 
+- Branches are labels of stream of commmits.
++ Use it to lable main commits or other experimental side ones.
+- Clones are copies of remote repositories on a harddrive.
++ Use it to download a repository when you want to work on it on your harddrive and do not want to reference to it.
+- forks are clones of repositories with reference to the original github repository.
++ Use it to get a repository, but also to let the author know that you have used it, so other can reference to the author.
