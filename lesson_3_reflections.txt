@@ -18,5 +18,9 @@ A3:
 - forks are clones of repositories with reference to the original github repository.
 + Use it to get a repository, but also to let the author know that you have used it, so other can reference to the author.
 
-Q3: What is the benefit of having a copy of the last known state of the remote stored locally?
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
 A4: 
+
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A5: Either using dropbox, or google drive. When working on the same file, there would be a conflict that contributor would have to resolve, but there is no functionality of merging. IT might be easier in the sense that I would not have to take an entire course ;), but in the long run, Git and Github makes everything more automatic, faster, and safer.
+
