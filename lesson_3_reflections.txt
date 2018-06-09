@@ -24,3 +24,6 @@ A4:
 Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A5: Either using dropbox, or google drive. When working on the same file, there would be a conflict that contributor would have to resolve, but there is no functionality of merging. IT might be easier in the sense that I would not have to take an entire course ;), but in the long run, Git and Github makes everything more automatic, faster, and safer.
 
+Q6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A6: When I am testing some new features and experience, so that my master branch does not get broken.
+
