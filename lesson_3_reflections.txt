@@ -17,3 +17,6 @@ A3:
 + Use it to download a repository when you want to work on it on your harddrive and do not want to reference to it.
 - forks are clones of repositories with reference to the original github repository.
 + Use it to get a repository, but also to let the author know that you have used it, so other can reference to the author.
+
+Q3: What is the benefit of having a copy of the last known state of the remote stored locally?
+A4: 
